@@ -38,7 +38,6 @@ const getAPI = async (url='', data={}) => {
 
 
 
-// GET full data
 
 
 
